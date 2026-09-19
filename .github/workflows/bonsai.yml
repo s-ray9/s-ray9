@@ -1,16 +1,19 @@
-name: bonsai
+name: Generate Git Bonsai
 
 on:
   schedule:
     - cron: "30 11 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  grow:
+  grow-bonsai:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: egorthinks/git-bonsai@v1
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
+
+      - name: Update Bonsai Asset
+        uses: egorthinks/git-bonsai@v1
