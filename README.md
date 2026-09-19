@@ -6,8 +6,8 @@ Building systems where software, simulation, and mathematics meet.
 
 <a href="https://s-ray9.vercel.app"><img src="https://img.shields.io/badge/Vercel-Personal_Portfolio-24292e?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Personal Portfolio"><br></a>
 <a href="https://www.linkedin.com/in/sinray-yang-b65339411"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://youtube.com/@s_ray9"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
-<a href="https://devpost.com/s_ray9"><img src="https://img.shields.io/badge/Devpost-003e54?style=flat-square&logo=devpost&logoColor=white" alt="Devpost">
+<a href="https://youtube.com/@s_ray9"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://devpost.com/s_ray9"><img src="https://img.shields.io/badge/Devpost-003e54?style=flat-square&logo=devpost&logoColor=white" alt="Devpost"></a>
 
 </div>
 
