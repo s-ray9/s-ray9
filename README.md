@@ -19,7 +19,7 @@ Building systems where software, simulation, and mathematics meet.
         <img src="output/bonsai-growth.gif" width="50%" alt="My Git Bonsai">
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=s_ray9&custom_title=Hackatime%20Stats%20%7C%20Since%20Sept%202026&api_domain=hackatime.hackclub.com&theme=transparent&hide_border=true&layout=compact&cache_seconds=0&langs_count=6&hide=markdown,ini,ignore%20list,text,other,git%20attributes,toml,yaml,json" width="100%" alt="Hackatime Stats">
+        <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=s_ray9&custom_title=Hackatime%20Stats%20%7C%20Since%20Sept%202026&api_domain=hackatime.hackclub.com&theme=transparent&hide_border=true&layout=compact&cache_seconds=0&langs_count=6&hide=csv,git%20attributes,ignore%20list,ini,json,markdown,other,tex,text,toml,xml,yaml" width="100%" alt="Hackatime Stats">
       </td>
     </tr>
     <tr align="center">
