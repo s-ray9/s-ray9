@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm s_ray9.</h1>
+  <h1>s_ray9</h1>
   <a href="https://s-ray9.vercel.app"><img src="https://img.shields.io/badge/Vercel-Personal_Portfolio-white?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Personal Portfolio"></a><br>
   <hr>
   <p>Building systems where software, simulation, and mathematics meet.</p>
