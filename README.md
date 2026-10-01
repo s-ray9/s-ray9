@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>s_ray9</h1>
-  <a href="https://s-ray9.vercel.app"><img src="https://img.shields.io/badge/Vercel-Personal_Portfolio-white?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Personal Portfolio"></a><br>
-  <hr>
+  <img src="assets/banner.png" alt="s_ray9: systems developer, game developer.">
+  <p><a href="https://s-ray9.vercel.app"><img src="https://img.shields.io/badge/Vercel-Personal_Portfolio-white?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Personal Portfolio"></a></p>
   <p>Building systems where software, simulation, and mathematics meet.</p>
   <h2>Connect With Me</h2>
   <p>
@@ -31,11 +30,13 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Blender-f5792a?style=flat-square&logo=blender&logoColor=white" alt="Blender">
-    <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=robloxstudio&logoColor=white" alt="Roblox Studio">
-    <img src="https://img.shields.io/badge/Rojo-d32f2f?style=flat-square&logo=rust&logoColor=white" alt="Rojo">
+    <img src="https://img.shields.io/badge/Linux-f4bc00?style=flat-square&logo=linux&logoColor=020204" alt="Linux">
+    <img src="https://img.shields.io/badge/CMake-064f8c?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
     <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=robloxstudio&logoColor=white" alt="Roblox Studio">
+    <img src="https://img.shields.io/badge/Rojo-d32f2f?style=flat-square&logo=rust&logoColor=white" alt="Rojo">
+    <img src="https://img.shields.io/badge/Blender-f5792a?style=flat-square&logo=blender&logoColor=white" alt="Blender">
   </p>
   <h2>Metrics</h2>
   <table width="100%">
