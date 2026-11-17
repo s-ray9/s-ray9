@@ -13,6 +13,7 @@ I'm a systems and game developer who builds whatever looks interesting, whether 
 [![linkedin-badge]][linkedin]
 [![youtube-badge]][youtube]
 [![discord-badge]][discord]
+[![roblox-devforum-badge]][roblox-devforum]
 [![roblox-badge]][roblox]
 
 ## Tech stack
@@ -79,10 +80,12 @@ I'm a systems and game developer who builds whatever looks interesting, whether 
 [linkedin]: https://www.linkedin.com/in/sinray-yang
 [youtube]: https://youtube.com/@s_ray9
 [discord]: https://discord.com/users/627285114875019264
+[roblox-devforum]: https://devforum.roblox.com/u/sinrayh124434
 [roblox]: https://www.roblox.com/users/502552415
 
 [personal-portfolio-badge]: https://img.shields.io/badge/Vercel-Personal_Portfolio-white?logo=vercel&logoColor=white&labelColor=black
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0a66c2
 [youtube-badge]: https://img.shields.io/badge/YouTube-ff0000?logo=youtube&logoColor=white
 [discord-badge]: https://img.shields.io/badge/Discord-5865f2?logo=discord&logoColor=white
+[roblox-devforum-badge]: https://img.shields.io/badge/Roblox_DevForum-black?logo=roblox&logoColor=white
 [roblox-badge]:  https://img.shields.io/badge/Roblox-3058f8?logo=roblox&logoColor=white
